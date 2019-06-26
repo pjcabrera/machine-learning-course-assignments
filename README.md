@@ -11,10 +11,10 @@ I implemented notebooks for the following algorithms:
 * Bayesian linear regression
 * Logistic regression
 * K-nearest neighbor classifier
-
-To be committed later (currently cleaning up the notebooks)
 * Random forest classifier
 * Adaptive Boosting
+
+To be committed later (currently cleaning up the notebooks)
 * k-means clustering with Gaussian Mixture Model
 * Item recommendation system
 * Hidden Markov Model
